@@ -1,1 +1,3 @@
-# JavaScript
+Tic-Tac-Toe Game
+
+This is a simple, interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The game allows two players to compete in the classic Tic-Tac-Toe format directly in the browser. Player 1 uses the "X" symbol, while Player 2 uses the "O" symbol. Players take turns clicking on available squares to place their mark, with the game updating the status to reflect whose turn it is and determining if there's a winner or a draw. You can restart the game at any time to play again. To use the game, simply clone the repository by running git clone https://github.com/yourusername/tic-tac-toe.git and open the index.html file in your browser to start playing. The project is powered by HTML for layout, CSS for styling, and JavaScript for the core game logic. Contributions are welcome, and if you have any questions, feel free to reach out through my GitHub profile or email.
