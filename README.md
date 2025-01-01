@@ -1,3 +1,42 @@
 Tic-Tac-Toe Game
 
-This is a simple, interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The game allows two players to compete in the classic Tic-Tac-Toe format directly in the browser. Player 1 uses the "X" symbol, while Player 2 uses the "O" symbol. Players take turns clicking on available squares to place their mark, with the game updating the status to reflect whose turn it is and determining if there's a winner or a draw. You can restart the game at any time to play again. To use the game, simply clone the repository by running git clone https://github.com/yourusername/tic-tac-toe.git and open the index.html file in your browser to start playing. The project is powered by HTML for layout, CSS for styling, and JavaScript for the core game logic. Contributions are welcome, and if you have any questions, feel free to reach out through my GitHub profile or email.
+Description
+This project is a simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript. It allows two players to compete against each other in the classic game of Xs and Os. The game is responsive and provides a clean, user-friendly interface.
+
+Features
+
+Two-player game mode.
+Dynamic game board with clickable cells.
+Real-time updates to display the winner or declare a draw.
+Reset button to start a new game.
+Responsive design that works across various devices.
+
+Technologies Used
+HTML: To structure the game interface.
+CSS: For styling and layout.
+JavaScript: To implement the game logic and interactivity.
+
+How to Play
+Open the game in any modern web browser.
+Player 1 starts by clicking on any empty cell to place an "X".
+Player 2 follows by clicking on an empty cell to place an "O".
+The game continues until a player gets three of their symbols in a row (horizontal, vertical, or diagonal) or the board is full.
+A message will announce the winner or declare a draw.
+Use the "Reset" button to play again.
+
+Project Structure
+Tic-Tac-Toe/
+│
+├── index.html       # Main HTML file
+├── styles.css       # Stylesheet for the game
+├── script.js        # JavaScript file containing game logic
+└── README.md        # Project documentation
+
+Setup Instructions
+Clone the repository or download the source code.
+Open index.html in a web browser to run the game.
+
+Future Enhancements
+Add an AI opponent to enable single-player mode.
+Implement sound effects and animations for a more engaging experience.
+Track the score across multiple games.
